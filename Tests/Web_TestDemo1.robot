@@ -14,3 +14,6 @@ ${SEARCH_TERM} =  echo plus
 Logged out user can search for products
     [Tags]  CurrentTC
     WebApp.Search For Products
+
+Do Something for Feature 2
+    Log  Doing something for feature 2
