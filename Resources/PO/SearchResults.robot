@@ -7,4 +7,4 @@ Library  SeleniumLibrary
 *** Keywords ***
 Verify Search Completed
     wait until page contains  results for "${SEARCH_TERM}"
-    capture page screenshot  
+    capture page screenshot
