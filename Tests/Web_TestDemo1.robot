@@ -7,7 +7,7 @@ Test Teardown  Common.End Web Test
 
 *** Variables ***
 ${BROWSER} =  chrome
-${START_URL} =  https://www.amazon.com.au
+${START_URL} =  https://www.amazon.com
 ${SEARCH_TERM} =  echo plus
 
 *** Test Cases ***
